@@ -70,6 +70,7 @@ body{
 .edit{
     height: fit-content;
     display: flex;
+    flex-direction: Column;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
